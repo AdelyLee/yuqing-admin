@@ -1,0 +1,1 @@
+{"version":3,"sources":["common.js"],"names":[],"mappings":";;;;;AAIO,IAAM,sBAAO,kCAAb","file":"common-compiled.js","sourcesContent":["/**\n * Created by lyc on 17-8-28.\n */\n// export const base = 'http://tcbds.xicp.io:8888/yuqing';\nexport const base = 'http://192.168.0.118:8888/yuqing';\n"]}

@@ -1,0 +1,48 @@
+.table-expand {
+    font-size: 0;
+}
+
+.table-expand label {
+    width: 90px;
+    color: #99a9bf;
+}
+
+.table-expand .el-form-item {
+    margin-right: 0;
+    margin-bottom: 0;
+    width: 33%;
+}
+.table-expand .fullrow {
+    width: 100%;
+}
+.fullrow .el-form-item__content {
+    width:80%;
+}
+.area-input {
+    width:25%!important;
+}
+.name-input {
+    width:80%!important;
+}
+.sort-btn {
+    float: right;
+    .el-button {
+        &.active {
+            color:#fff;
+            border-color:#20A0FF;
+            background-color: #20A0FF;
+        }
+    }
+}
+li.btn-quicknext + li.number {
+    display: none;
+}
+li.btn-quicknext {
+    border-right: 1px solid #d1dbe5;
+}
+.input-box {
+    width:80%;
+}
+.page-box {
+    padding:20px;
+}
